@@ -1,2 +1,2 @@
 # IndexPenDemo
-IndexPen: Two-Finger Text Input with Millimeter-Wave Radar
+Article: "IndexPen: Two-Finger Text Input with Millimeter-Wave Radar"
